@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikumar Mogulla</h1>
-<h3 align="center">Passionate DevOps & AWS Cloud Engineer with 3+ years of experience in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.</h3>
-
-- 📫 How to reach me **saikumarmogulla40@gmail.com**
+<h3 align="center">DevOps Engineer 🚀 DevOps • Cloud Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform | Ansible</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
