@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Saikumar Mogulla</h1>
-<h3 align="center">DevOps Engineer @ TCS Limited</h3> 
+<h3 align="left">DevOps Engineer @ TCS Limited</h3> 
 🚀 DevOps • Cloud Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform | Ansible
 
 # 💫 About Me:
