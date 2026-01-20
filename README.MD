@@ -114,3 +114,21 @@ Experienced in **AWS cloud**, **DevOps practices**, **CI/CD automation**, **Infr
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Saikumar1827&icon=0&color=1"/>
 </p>
+
+---
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saikumar1827&theme=github-compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <b>Saikumar's GitHub activity graph</b>
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting! ✨
+</p>
+
