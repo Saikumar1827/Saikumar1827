@@ -38,9 +38,7 @@ Strong believer in **automation-first and reliability-driven engineering**.
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
-
 <br/>
-
 <p align="center">
   <b>🧑‍💻 Scripting</b>
 </p>
@@ -48,9 +46,7 @@ Strong believer in **automation-first and reliability-driven engineering**.
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
-
 <br/>
-
 <p align="center">
   <b>🛠️ DevOps & CI/CD</b>
 </p>
@@ -58,9 +54,7 @@ Strong believer in **automation-first and reliability-driven engineering**.
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
-
 <br/>
-
 <p align="center">
   <b>🐳 Containers & Orchestration</b>
 </p>
@@ -69,9 +63,7 @@ Strong believer in **automation-first and reliability-driven engineering**.
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
 </p>
-
 <br/>
-
 <p align="center">
   <b>🔧 Infrastructure & Monitoring</b>
 </p>
