@@ -2,12 +2,15 @@
   <img src="Banner1.png" alt="Saikumar Mogulla DevOps Banner" />
 </p>
 
-<h1 align="left">Hi 👋, I'm Saikumar Mogulla</h1>
-<h3 align="left">DevOps Engineer @ TCS Limited</h3> 
-🚀 DevOps • Cloud Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform | Ansible
+<h1 align="center">Saikumar Mogulla</h1>
+<h3 align="center">DevOps Engineer @ TCS Limited</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/saikumarmogulla">
+<p align="center">
+🚀 DevOps • Cloud Engineer | AWS | CI/CD | Docker | Kubernetes | Terraform | Ansible
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saikumarmogulla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:saikumarmogulla40@gmail.com">
@@ -15,11 +18,15 @@
   </a>
 </p>
 
+
 ---
 
-# 💫 About Me:
-Passionate DevOps & AWS Cloud Engineer with 3+ years of experience in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
- 
+## 💫 About Me
+
+Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in infrastructure automation, CI/CD pipelines, and container orchestration.  
+Experienced with **Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions**, delivering **scalable, reliable, and efficient cloud environments**.  
+Strong believer in **automation-first and reliability-driven engineering**.
+
 ---
 ## ⚡ Tech Stack
 
