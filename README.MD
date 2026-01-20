@@ -64,6 +64,34 @@ Strong believer in **automation-first and reliability-driven engineering**.
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
+## 🛠️ What I Do
+
+- 🔧 Build and manage scalable infrastructure on **AWS** using **Terraform** for secure, repeatable, and automated provisioning.
+- ⚙️ Implement **Configuration Management** with **Ansible**, ensuring consistent server provisioning and automated deployments.
+- 🚀 Design and implement efficient **CI/CD pipelines** using **Jenkins**, accelerating software delivery.
+- 📦 Manage source code and team collaboration using **GitHub**, enabling streamlined workflows and version control.
+- 🐳 Deploy and orchestrate applications with **Docker** and **Kubernetes (EKS)** for high availability and scalability.
+- 🧠 Automate infrastructure and operational tasks using **Linux**, **Shell Scripting**, and **Python**, improving consistency and speed.
+- ✅ Enforce quality with **SonarQube**, and manage artifacts using **Nexus**.
+- 🔐 Secure cloud environments using **IAM** and **RBAC**, ensuring compliance and access control.
+- 📊 Ensure observability and performance with **Prometheus**, **Grafana**, and **CloudWatch**, minimizing downtime.
+
+---
+
+## 💼 Career Snapshot
+
+- 🏢 **TCS** — *DevOps & AWS Cloud Engineer* (**3+ Years**)
+
+Experienced in **AWS cloud**, **DevOps practices**, **CI/CD automation**, **Infrastructure as Code**, **container orchestration**, and **cloud security** — delivering **scalable, reliable, and efficient cloud platforms**.
+
+---
+
+## 🧠 Skills Showcase
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,docker,kubernetes,linux,github,git,python,vscode&theme=dark" />
+</p>
+
 
 ---
 
