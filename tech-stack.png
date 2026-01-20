@@ -1,62 +1,43 @@
-<svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title { fill: #ffffff; font-size: 28px; font-weight: bold; font-family: Arial, sans-serif; }
-    .section { fill: #ffffff; font-size: 18px; font-weight: bold; font-family: Arial, sans-serif; }
-    .badge-text { fill: #ffffff; font-size: 14px; font-weight: bold; font-family: Arial, sans-serif; }
-  </style>
+from PIL import Image, ImageDraw, ImageFont
 
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="#0d1117"/>
+# Image size and background
+width, height = 900, 620
+img = Image.new("RGB", (width, height), color="#0d1117")
+draw = ImageDraw.Draw(img)
 
-  <!-- Title -->
-  <text x="50%" y="50" text-anchor="middle" class="title">⚡ Tech Stack</text>
+# Fonts
+try:
+    font_title = ImageFont.truetype("arialbd.ttf", 28)
+    font_subtitle = ImageFont.truetype("arialbd.ttf", 18)
+    font_text = ImageFont.truetype("arialbd.ttf", 14)
+except:
+    font_title = ImageFont.load_default()
+    font_subtitle = ImageFont.load_default()
+    font_text = ImageFont.load_default()
 
-  <!-- Cloud -->
-  <text x="50%" y="100" text-anchor="middle" class="section">☁️ Cloud Platform & OS</text>
-  <rect x="320" y="120" rx="6" ry="6" width="90" height="32" fill="#ff9d00"/>
-  <text x="365" y="142" text-anchor="middle" class="badge-text">AWS</text>
+# Title
+draw.text((width/2, 30), "⚡ Tech Stack", fill="#ffffff", font=font_title, anchor="ms")
 
-  <rect x="420" y="120" rx="6" ry="6" width="110" height="32" fill="#facc15"/>
-  <text x="475" y="142" text-anchor="middle" fill="#000" font-size="14" font-weight="bold">LINUX</text>
+# Sections and badges
+sections = [
+    ("☁️ Cloud Platform & OS", [("AWS", "#ff9d00"), ("LINUX", "#facc15")]),
+    ("🧑‍💻 Scripting", [("SHELL SCRIPT", "#161616"), ("PYTHON", "#3b82f6")]),
+    ("🛠️ DevOps & CI/CD", [("JENKINS", "#1f2937"), ("GITHUB ACTIONS", "#2563eb")]),
+    ("🐳 Containers & Orchestration", [("DOCKER", "#22d3ee"), ("KUBERNETES", "#2563eb"), ("HELM", "#334155")]),
+    ("🔧 Infrastructure & Monitoring", [("TERRAFORM", "#7c3aed"), ("ANSIBLE", "#161616"), ("PROMETHEUS", "#f05232"), ("GRAFANA", "#f97316")])
+]
 
-  <!-- Scripting -->
-  <text x="50%" y="190" text-anchor="middle" class="section">🧑‍💻 Scripting</text>
-  <rect x="300" y="210" rx="6" ry="6" width="140" height="32" fill="#161616"/>
-  <text x="370" y="232" text-anchor="middle" class="badge-text">SHELL SCRIPT</text>
+y = 80
+for section, items in sections:
+    draw.text((width/2, y), section, fill="#ffffff", font=font_subtitle, anchor="ms")
+    y += 20
+    x = 200
+    for item, color in items:
+        draw.rectangle([x, y, x+140, y+32], fill=color)
+        draw.text((x+70, y+16), item, fill="#ffffff", font=font_text, anchor="mm")
+        x += 160
+    y += 60
 
-  <rect x="450" y="210" rx="6" ry="6" width="100" height="32" fill="#3b82f6"/>
-  <text x="500" y="232" text-anchor="middle" class="badge-text">PYTHON</text>
-
-  <!-- DevOps -->
-  <text x="50%" y="280" text-anchor="middle" class="section">🛠️ DevOps & CI/CD</text>
-  <rect x="300" y="300" rx="6" ry="6" width="110" height="32" fill="#1f2937"/>
-  <text x="355" y="322" text-anchor="middle" class="badge-text">JENKINS</text>
-
-  <rect x="420" y="300" rx="6" ry="6" width="170" height="32" fill="#2563eb"/>
-  <text x="505" y="322" text-anchor="middle" class="badge-text">GITHUB ACTIONS</text>
-
-  <!-- Containers -->
-  <text x="50%" y="370" text-anchor="middle" class="section">🐳 Containers & Orchestration</text>
-  <rect x="260" y="390" rx="6" ry="6" width="110" height="32" fill="#22d3ee"/>
-  <text x="315" y="412" text-anchor="middle" class="badge-text">DOCKER</text>
-
-  <rect x="380" y="390" rx="6" ry="6" width="150" height="32" fill="#2563eb"/>
-  <text x="455" y="412" text-anchor="middle" class="badge-text">KUBERNETES</text>
-
-  <rect x="540" y="390" rx="6" ry="6" width="90" height="32" fill="#334155"/>
-  <text x="585" y="412" text-anchor="middle" class="badge-text">HELM</text>
-
-  <!-- Infrastructure -->
-  <text x="50%" y="460" text-anchor="middle" class="section">🔧 Infrastructure & Monitoring</text>
-  <rect x="230" y="480" rx="6" ry="6" width="130" height="32" fill="#7c3aed"/>
-  <text x="295" y="502" text-anchor="middle" class="badge-text">TERRAFORM</text>
-
-  <rect x="370" y="480" rx="6" ry="6" width="110" height="32" fill="#161616"/>
-  <text x="425" y="502" text-anchor="middle" class="badge-text">ANSIBLE</text>
-
-  <rect x="490" y="480" rx="6" ry="6" width="140" height="32" fill="#f05232"/>
-  <text x="560" y="502" text-anchor="middle" class="badge-text">PROMETHEUS</text>
-
-  <rect x="640" y="480" rx="6" ry="6" width="120" height="32" fill="#f97316"/>
-  <text x="700" y="502" text-anchor="middle" class="badge-text">GRAFANA</text>
-</svg>
+# Save PNG
+img.save("tech-stack.png")
+print("Saved as tech-stack.png")
