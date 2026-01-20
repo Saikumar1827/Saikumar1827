@@ -31,35 +31,38 @@ Strong believer in **automation-first and reliability-driven engineering**.
 ## ⚡ Tech Stack
 
 <p align="center">
-
-**☁️ Cloud Platform & OS**<br>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white"/>
-<br><br>
-
-**🧑‍💻 Scripting**<br>
-<img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23161616?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-%233767A0?style=for-the-badge&logo=python&logoColor=white"/>
-<br><br>
-
-**🛠️ DevOps & CI/CD**<br>
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<br><br>
-
-**🐳 Containers & Orchestration**<br>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img alt="Helm" src="https://img.shields.io/badge/Helm-%23334d73?style=for-the-badge&logo=helm&logoColor=white"/>
-<br><br>
-
-**🔧 Infrastructure & Monitoring**<br>
-<img alt="Terraform" src="https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img alt="Ansible" src="https://img.shields.io/badge/Ansible-%231A1918?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-
+  <b>☁️ Cloud Platform & OS</b><br>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
+
+<p align="center">
+  <b>🧑‍💻 Scripting</b><br>
+  <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23161616?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233767A0?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>🛠️ DevOps & CI/CD</b><br>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>🐳 Containers & Orchestration</b><br>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-%23334d73?style=for-the-badge&logo=helm&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>🔧 Infrastructure & Monitoring</b><br>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-%231A1918?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
 
 ---
 
