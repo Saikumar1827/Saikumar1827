@@ -2,7 +2,7 @@
   <img src="Banner1.png" alt="Saikumar Mogulla DevOps Banner" />
 </p>
 
-<h1 align="center">Saikumar Mogulla</h1>
+<h1 align="left">Hi 👋, I'm Saikumar Mogulla</h1>
 <h3 align="left">DevOps Engineer @ TCS Limited</h3>
 
 <p>
@@ -18,15 +18,11 @@
   </a>
 </p>
 
-
 ---
 
-## 💫 About Me
-
-Passionate **DevOps & AWS Cloud Engineer** with **3+ years of experience** in infrastructure automation, CI/CD pipelines, and container orchestration.  
-Experienced with **Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions**, delivering **scalable, reliable, and efficient cloud environments**.  
-Strong believer in **automation-first and reliability-driven engineering**.
-
+# 💫 About Me:
+Passionate DevOps & AWS Cloud Engineer with 3+ years of experience in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
+ 
 ---
 ## ⚡ Tech Stack
 
