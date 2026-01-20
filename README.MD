@@ -32,8 +32,9 @@ Strong believer in **automation-first and reliability-driven engineering**.
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,docker,kubernetes,linux,github,git,python,vscode&theme=dark" />
+  <img src="./tech-stack.svg" />
 </p>
+
 
 
 
