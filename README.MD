@@ -98,22 +98,17 @@ Experienced in **AWS cloud**, **DevOps practices**, **CI/CD automation**, **Infr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saikumar1827&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saikumar1827&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Saikumar1827&theme=dark&hide_border=false"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Saikumar1827&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikumar1827&theme=dark&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikumar1827&layout=compact&theme=dark&hide_border=true" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Saikumar1827&icon=0&color=1"/>
-</p>
 
 ---
 ## 📊 GitHub Activity Graph
