@@ -29,6 +29,8 @@ Strong believer in **automation-first and reliability-driven engineering**.
 
 ---
 
+## ⚡ Tech Stack
+
 <p align="center">
   <b>☁️ Cloud Platform & OS</b>
 </p>
@@ -79,7 +81,6 @@ Strong believer in **automation-first and reliability-driven engineering**.
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 </p>
-
 
 
 
