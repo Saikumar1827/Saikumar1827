@@ -32,37 +32,30 @@ Strong believer in **automation-first and reliability-driven engineering**.
 ## ⚡ Tech Stack
 
 ### ☁️ Cloud Platform & OS
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" />
 </p>
 
 ### 🧑‍💻 Scripting
-<p>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,python&theme=dark" />
 </p>
 
 ### 🛠️ DevOps & CI/CD
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github&theme=dark" />
 </p>
 
 ### 🐳 Containers & Orchestration
-<p>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" />
 </p>
 
 ### 🔧 Infrastructure & Monitoring
-<p>
-  <img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,prometheus,grafana&theme=dark" />
 </p>
+
 
 ## 🛠️ What I Do
 
