@@ -35,7 +35,6 @@ Strong believer in **automation-first and reliability-driven engineering**.
   <img src="tech-stack.png" alt="Tech Stack" width="700"/>
 </p>
 
-
 ---
 
 ## 🛠️ What I Do

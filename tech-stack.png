@@ -40,4 +40,4 @@ for section, items in sections:
 
 # Save PNG
 img.save("tech-stack.png")
-print("Saved as tech-stack.png")
+print("Saved as tech-stack.png in current folder")
