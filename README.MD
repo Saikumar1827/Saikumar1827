@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/saikumarmogulla">
+  <a href="https://www.linkedin.com/in/saikumarmogulla">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:saikumarmogulla40@gmail.com">
