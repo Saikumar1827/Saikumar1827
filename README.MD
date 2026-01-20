@@ -33,28 +33,45 @@ Strong believer in **automation-first and reliability-driven engineering**.
 
 ### ☁️ Cloud Platform & OS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
+
+---
 
 ### 🧑‍💻 Scripting
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python&theme=dark" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
+
+---
 
 ### 🛠️ DevOps & CI/CD
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github&theme=dark" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
+
+---
 
 ### 🐳 Containers & Orchestration
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
 </p>
+
+---
 
 ### 🔧 Infrastructure & Monitoring
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,prometheus,grafana&theme=dark" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 </p>
+
 
 
 ## 🛠️ What I Do
