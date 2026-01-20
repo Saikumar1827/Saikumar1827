@@ -128,7 +128,7 @@ Experienced in **AWS cloud**, **DevOps practices**, **CI/CD automation**, **Infr
 
 ---
 
-<p align="center">
+<p align="left">
   ✨ Thanks for visiting! ✨
 </p>
 
